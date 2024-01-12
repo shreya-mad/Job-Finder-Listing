@@ -1,0 +1,14 @@
+.login{
+    color: white;
+    border: none;
+    background-color: rgb(215, 70, 70);
+    margin: 20px 30px 20px 30px;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+.login:hover{
+    cursor: pointer;
+    color: rgb(215, 70, 70);
+    background-color: white;
+}
